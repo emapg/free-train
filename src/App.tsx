@@ -1,5 +1,5 @@
 import React from 'react';
-import { SolarSystem } from './components/SolarSystem';
+import { SolarSystem } from './components/scene/SolarSystem';
 
 function App() {
   return (
